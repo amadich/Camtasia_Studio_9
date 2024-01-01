@@ -1,6 +1,6 @@
 # Patch Camtasia Studio 9 Full Version
 Try Camtasia today for free Full Version 😉, the best all-in-one video editing software. Record your screen, edit video clips, add video effects, transitions, and more.
-# How to activate Pach
+# How to activate Patch
 1 - When this editing screen appears, do not open any process
 ![image](https://github.com/amadich/Camtasia_Studio_9/assets/74735976/84c817d6-e376-4534-906b-38fdd2b01e2e)
 2 - Run the patch program that you downloaded ✅ (You must have Python to run the program)
